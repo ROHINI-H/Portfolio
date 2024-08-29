@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&family=Chakra+Petch&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+#navbar {
+    background-color: antiquewhite;
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.03);
+}
+
+#navbar>ul {
+    list-style-type: none;
+    margin-right: 10%;
+    padding: 10px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+#navbar>ul>li a {
+    padding: 30px;
+    font-size: 25px;
+    color: rgb(112, 42, 42);
+    text-transform: capitalize;
+}
+
+#navbar>ul>li a:hover,
+#navbar>ul>li a:focus {
+    color: rgb(210, 126, 15);
+}
+
+img {
+    width: 300px;
+}
+
+#welcome-section {
+    margin: 10% 25% 5% 25%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.intro {
+    align-self: center;
+}
+
+.intro h1 {
+    font-size: 4em;
+    font-family: "Baskervville SC", system-ui;
+    letter-spacing: 5px;
+}
+
+.intro p {
+    font-size: 2em;
+    font-family: "Chakra Petch", system-ui;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+h2 {
+    text-align: center;
+    font-size: 2.5em;
+}
+
+.project-tile {
+    width: 500px;
+    height: 450px;
+    text-align: center;
+    border: 2px solid rgb(191, 212, 237);
+    border-radius: 5px;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+    padding: 15px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.project-tile:hover {
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+.project-tile img {
+    width: 100%;
+    height: 350px;
+    border-radius: 10px;
+    border: 1px solid rgb(202, 199, 199);
+}
+
+.project-tile a {
+    color: rgb(9, 56, 97);
+    font-size: 20px;
+    padding: 20px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+}
+
+.project-tile a:hover {
+    color: rgb(110, 175, 233);
+}
+
+.container {
+    padding: 50px 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.no-padding {
+    padding: 0;
+}
+
+#contact {
+    text-align: center;
+    background-color: rgb(249, 247, 244);
+    padding: 5em;
+}
+
+#contact h3 {
+    font-size: 2.5em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#contact p {
+    font-size: 1.5em;
+    font-weight: 545;
+    padding: 10px;
+}
+
+#contact img {
+    width: 20px;
+}
+
+#profile-link {
+    color: black;
+    font-size: 1.2em;
+}
+
+#profile-link:hover {
+    color: rgb(149, 143, 143);
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+@media only screen and (max-width: 900px){
+    #welcome-section {
+        height: 100vh;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 0;
+    }
+
+    .container {
+        padding: 20px 50px;
+    }
+
+    .no-padding {
+        padding: 0;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    #navbar>ul {
+        margin-right: 0;
+        padding: 0;
+    }
+
+    #navbar>ul>li a {
+        padding: 10px;
+        font-size: 20px;
+    }
+
+    .container {
+        padding: 0;
+    }
+
+    .project-tile img {
+        height: 250px;
+        margin-bottom: 10px;
+    }
+
+    .project-tile {
+        height: 350px;
+    }
+
+    .project-tile a {
+        padding: 10px;
+    }
+}
