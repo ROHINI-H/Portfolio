@@ -4,6 +4,7 @@
 This repository contains my solution to the FreeCodeCamp "Build a Personal Portfolio Webpage" challenge as part of Responsive Web Design Course. The goal of this project is to create a responsive personal portfolio webpage that showcases my skills and experience. This portfolio is not only a testament to my skills as a developer but also a work in progress, reflecting my continuous learning and growth in the field.
 
 ## FCC Challenge Link
+https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-personal-portfolio-webpage-project/build-a-personal-portfolio-webpage
 
 ## Installation
 To view this project, simply clone this repository and open the index.html file in your web browser.
@@ -20,9 +21,16 @@ This website is a personal portfolio, showcasing my skills and experience in web
 
 ## Demo
 ### Desktop or Laptop view
+![Screenshot 2024-09-19 134608](https://github.com/user-attachments/assets/86ec1971-1e52-4cb6-94c8-5062a040937d)
+![Screenshot 2024-09-19 134623](https://github.com/user-attachments/assets/d5fdc3e4-c24a-4a25-8ec3-1e4329303517)
+![Screenshot 2024-09-19 134637](https://github.com/user-attachments/assets/38c712f7-3704-4a32-a7c4-dda0d0358d54)
 
 ### Mobile view
 ---
+<img src="https://github.com/user-attachments/assets/2fc7933a-c086-4c97-9cc3-d1279b40fef1" alt="mobile view" width=300 />
+<img src="https://github.com/user-attachments/assets/c93d1efc-9d87-482d-af12-64dc39e7c40e" alt="mobile view" width=300 />
+<img src="https://github.com/user-attachments/assets/0457f680-96bb-491d-bfb6-b3d969ac54d4" alt="mobile view" width=300 />
+<img src="https://github.com/user-attachments/assets/669da690-1fb7-4d6a-9057-8685e11ab289" alt="mobile view" width=300 />
 
 ## FCC User Story
 The project meets the following user stories:
