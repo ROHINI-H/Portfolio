@@ -27,10 +27,10 @@ This website is a personal portfolio, showcasing my skills and experience in web
 
 ### Mobile view
 ---
-<img src="https://github.com/user-attachments/assets/2fc7933a-c086-4c97-9cc3-d1279b40fef1" alt="mobile view" width=300 />
-<img src="https://github.com/user-attachments/assets/c93d1efc-9d87-482d-af12-64dc39e7c40e" alt="mobile view" width=300 />
-<img src="https://github.com/user-attachments/assets/0457f680-96bb-491d-bfb6-b3d969ac54d4" alt="mobile view" width=300 />
-<img src="https://github.com/user-attachments/assets/669da690-1fb7-4d6a-9057-8685e11ab289" alt="mobile view" width=300 />
+<img src="https://github.com/user-attachments/assets/2fc7933a-c086-4c97-9cc3-d1279b40fef1" alt="mobile view" width=400 />
+<img src="https://github.com/user-attachments/assets/c93d1efc-9d87-482d-af12-64dc39e7c40e" alt="mobile view" width=400 />
+<img src="https://github.com/user-attachments/assets/0457f680-96bb-491d-bfb6-b3d969ac54d4" alt="mobile view" width=400 />
+<img src="https://github.com/user-attachments/assets/669da690-1fb7-4d6a-9057-8685e11ab289" alt="mobile view" width=400 />
 
 ## FCC User Story
 The project meets the following user stories:
