@@ -1,25 +1,25 @@
-# FreeCodeCamp Project: Build a Personal Portfolio Webpage
+# 👩🏻‍💻FreeCodeCamp Project: Build a Personal Portfolio Webpage
 
-## Description
+## 🗒️Description
 This repository contains my solution to the FreeCodeCamp "Build a Personal Portfolio Webpage" challenge as part of Responsive Web Design Course. The goal of this project is to create a responsive personal portfolio webpage that showcases my skills and experience. This portfolio is not only a testament to my skills as a developer but also a work in progress, reflecting my continuous learning and growth in the field.
 
-## FCC Challenge Link
+## 🏆FCC Challenge Link
 https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-personal-portfolio-webpage-project/build-a-personal-portfolio-webpage
 
-## Installation
+## 🌠Installation
 To view this project, simply clone this repository and open the index.html file in your web browser.
 
-## Usage
+## 🌟Usage
 This website is a personal portfolio, showcasing my skills and experience in web development. You can use it as a template for your own personal portfolio.
 
-## Features
+## 🌈Features
 
 - Responsive layout that adapts to different screen sizes
 - Sections for projects, skills, and contact information
 - A visual representation of my technical skills and proficiencies
 - Smooth scrolling and navigation
 
-## Demo
+## 🌸Demo
 ### Desktop or Laptop view
 ![Screenshot 2024-09-19 134608](https://github.com/user-attachments/assets/86ec1971-1e52-4cb6-94c8-5062a040937d)
 ![Screenshot 2024-09-19 134623](https://github.com/user-attachments/assets/d5fdc3e4-c24a-4a25-8ec3-1e4329303517)
@@ -32,7 +32,7 @@ This website is a personal portfolio, showcasing my skills and experience in web
 <img src="https://github.com/user-attachments/assets/0457f680-96bb-491d-bfb6-b3d969ac54d4" alt="mobile view" width=400 />
 <img src="https://github.com/user-attachments/assets/669da690-1fb7-4d6a-9057-8685e11ab289" alt="mobile view" width=400 />
 
-## FCC User Story
+## 🛸FCC User Story
 The project meets the following user stories:
 
 1. Your portfolio should have a welcome section with an id of welcome-section
@@ -49,14 +49,14 @@ The project meets the following user stories:
 
 Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
 
-## Contributing
+## 🫱🏼‍🫲🏼Contributing
 If you'd like to contribute to this project, please fork this repository and submit a pull request. You can also report issues or suggest improvements by opening an issue.
 
-## License
+## 🔏License
 This project is licensed under the MIT License.
 
-## Acknowledgments
+## 🙇🏻‍♀️Acknowledgments
 Special thanks to FreeCodeCamp for providing the challenge and resources to learn web development.
 
-## Connect with me
+## 🚀Connect with me
 If you'd like to learn more about my work or connect professionally, you can find me on LinkedIn: www.linkedin.com/in/rohini-h
